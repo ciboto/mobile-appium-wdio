@@ -92,10 +92,8 @@ mobile-appium-wdio/
 ## 🧪 Testes incluídos
 - ❌ Login inválido → mostra erro
 - ✅ Login válido → acessa tela de produtos
-
 As seleções são feitas por `accessibilityId`, como `~test-Username`, `~test-LOGIN`.
 ---
-
 ## 📊 Gerar Relatório Allure 
 Após rodar os testes:
 ```bash
